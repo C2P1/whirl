@@ -9,7 +9,7 @@
   "dependencies": {
     "aws-amplify": "^0.4.1",
     "aws-amplify-react-native": "^0.2.12",
-    "aws-sdk": "^2.242.1",
+    "aws-sdk": "^2.814.0",
     "merge": ">=1.2.1",
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.4",
